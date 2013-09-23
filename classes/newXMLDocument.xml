@@ -1,0 +1,11 @@
+<parameters>
+    <operation></operation>
+    <entity></entity>
+    <date></date>
+    <category></category>
+    <paymentSource></paymentSource>
+    <store></store>
+    <amount></amount>
+    <installments></installments>
+    <comment></comment>         
+</parameters>
